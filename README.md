@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramakrishna
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack
+- 👀 I’m interested in Java Fyllstack
+- 🌱 I’m currently learning nodejs
 
 <!---
 19211ao5d8/19211ao5d8 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
