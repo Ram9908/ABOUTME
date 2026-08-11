@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramakrishna
-- 👀 I’m interested in Java Fyllstack
+- 👀 I’m interested in Java Fullstack
 - 🌱 I’m currently learning nodejs
 
 <!---
